@@ -1,3 +1,6 @@
 [submodule "Machine Problem 1/Fox-Chicken-Grain-Riddle-with-PyGame"]
 	path = Machine Problem 1/Fox-Chicken-Grain-Riddle-with-PyGame
 	url = https://github.com/D3struf/Fox-Chicken-Grain-Riddle-with-PyGame.git
+[submodule "Machine Problem 2&3/Killer-Sudoku"]
+	path = Machine Problem 2&3/Killer-Sudoku
+	url = https://github.com/D3struf/Killer-Sudoku.git
